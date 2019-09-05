@@ -1,5 +1,7 @@
 # GeoData
 
+![World Top](./Images/worldtopo.png)
+
 Created SQLite Databases Only With The Most Main Nodes From OpenStreetMap Data.
 The Main Nodes Are Nodes Wich Represent An Single Point With An Tag From The Following Types:
 
@@ -19,12 +21,19 @@ The Main Nodes Are Nodes Wich Represent An Single Point With An Tag From The Fol
 
 ## Databases
 
-I Tried To Keep The Databases Easy:
-- No High Sophisticated Column Types
-- No Foreign Keys
-- No Indexes (Everyone Has Different Needs Anyway)
-- No Triggers
-- No Extensions
+I Tried To Keep The Databases Very Easy:
+
+- [X] No High Sophisticated Column Types
+- [X] No Foreign Keys
+- [X] No Indexes (Everyone Has Different Needs Anyway)
+- [X] No Triggers
+- [X] No Extensions Is Needed Or Used (For Example SpatiaLite)
+
+Only Two Tables Are Created And Used. 
+
+This Make The Database Very Easy To Use And Is An Advantage For Some Tools.
+
+---
 
 ## Tables
 
@@ -101,6 +110,7 @@ CREATE TABLE NODE (
 - Add An Column `ELEVATION (INT)`
 - Add An Column For The International Name
 
+---
 
 ## Useful Links
 
