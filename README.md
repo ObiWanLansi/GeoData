@@ -89,6 +89,16 @@ CREATE TABLE NODE (
 
 *Example:*
 
+|ID|LAT|LON|NAME|NAME_EN|NAME_DE|TAG|VALUE|POPULATION|ELEVATION|
+|-:|--:|--:|:---|:------|:------|:--|:----|---------:|--------:|
+|21489671|-33,934444|18,869167|Stellenbosch|||place|town|60000||
+|25470100|-33,9617051|25,6207519|Port Elizabeth|Port Elizabeth|Port Elizabeth|place|city|1050000||
+|25503669|-25,7459374|28,1879444|Pretoria|Pretoria|Pretoria|place|city|741651|1339|
+|124482342|-23,948502|31,137577|Phalaborwa|||place|town|13108|436|
+|259130371|-30,6527617|27,926089|Ice Station 2720|||amenity|pub||2720|
+|262705211|-25,418349|30,104624|Dullstroom|||place|village|558|2100|
+|25928779|-34,051111|24,922222|Jeffreys Bay|||place|town|27107||
+|26417322|-26,1563889|27,8858333|Roodepoort|||place|city|325000||
 
 
 ---
