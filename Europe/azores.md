@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[azores.sqlite](azores.sqlite)|
-Zeitstempel|04.09.2019 20:16|
-Dateigr&ouml;&szlig;e|296.00 Kb|
+Zeitstempel|11.09.2019 16:30|
+Dateigr&ouml;&szlig;e|316.00 Kb|
 |||
 Gesamtanzahl Nodes|5597|
 |MinLat|36.67791|

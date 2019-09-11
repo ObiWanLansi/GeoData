@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[moldova.sqlite](moldova.sqlite)|
-Zeitstempel|04.09.2019 22:30|
-Dateigr&ouml;&szlig;e|4.96 Mb|
+Zeitstempel|11.09.2019 18:54|
+Dateigr&ouml;&szlig;e|5.35 Mb|
 |||
 Gesamtanzahl Nodes|119760|
 |MinLat|45.4689|

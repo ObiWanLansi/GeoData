@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[macedonia.sqlite](macedonia.sqlite)|
-Zeitstempel|04.09.2019 22:24|
-Dateigr&ouml;&szlig;e|564.00 Kb|
+Zeitstempel|11.09.2019 18:54|
+Dateigr&ouml;&szlig;e|632.00 Kb|
 |||
 Gesamtanzahl Nodes|11045|
 |MinLat|40.84759|

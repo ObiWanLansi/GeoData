@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[estonia.sqlite](estonia.sqlite)|
-Zeitstempel|04.09.2019 20:41|
-Dateigr&ouml;&szlig;e|2.84 Mb|
+Zeitstempel|11.09.2019 16:53|
+Dateigr&ouml;&szlig;e|3.04 Mb|
 |||
 Gesamtanzahl Nodes|65817|
 |MinLat|57.49764|

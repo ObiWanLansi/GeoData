@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[croatia.sqlite](croatia.sqlite)|
-Zeitstempel|04.09.2019 20:33|
-Dateigr&ouml;&szlig;e|3.87 Mb|
+Zeitstempel|11.09.2019 16:39|
+Dateigr&ouml;&szlig;e|4.12 Mb|
 |||
 Gesamtanzahl Nodes|81879|
 |MinLat|42.16483|

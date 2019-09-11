@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[austria.sqlite](austria.sqlite)|
-Zeitstempel|04.09.2019 20:52|
-Dateigr&ouml;&szlig;e|24.12 Mb|
+Zeitstempel|11.09.2019 16:29|
+Dateigr&ouml;&szlig;e|25.70 Mb|
 |||
 Gesamtanzahl Nodes|532399|
 |MinLat|46.36851|

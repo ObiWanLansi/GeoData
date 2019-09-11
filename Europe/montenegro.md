@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[montenegro.sqlite](montenegro.sqlite)|
-Zeitstempel|04.09.2019 22:31|
-Dateigr&ouml;&szlig;e|872.00 Kb|
+Zeitstempel|11.09.2019 18:55|
+Dateigr&ouml;&szlig;e|980.00 Kb|
 |||
 Gesamtanzahl Nodes|17595|
 |MinLat|41.61621|

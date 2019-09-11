@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[luxembourg.sqlite](luxembourg.sqlite)|
-Zeitstempel|04.09.2019 22:24|
-Dateigr&ouml;&szlig;e|1.38 Mb|
+Zeitstempel|11.09.2019 18:53|
+Dateigr&ouml;&szlig;e|1.48 Mb|
 |||
 Gesamtanzahl Nodes|29743|
 |MinLat|49.44553|

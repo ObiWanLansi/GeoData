@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[spain.sqlite](spain.sqlite)|
-Zeitstempel|05.09.2019 12:03|
-Dateigr&ouml;&szlig;e|68.33 Mb|
+Zeitstempel|11.09.2019 19:52|
+Dateigr&ouml;&szlig;e|72.33 Mb|
 |||
 Gesamtanzahl Nodes|1346857|
 |MinLat|35.154153|

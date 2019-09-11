@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[andorra.sqlite](andorra.sqlite)|
-Zeitstempel|04.09.2019 20:16|
-Dateigr&ouml;&szlig;e|80.00 Kb|
+Zeitstempel|11.09.2019 16:23|
+Dateigr&ouml;&szlig;e|88.00 Kb|
 |||
 Gesamtanzahl Nodes|1395|
 |MinLat|42.4276|

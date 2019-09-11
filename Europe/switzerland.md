@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[switzerland.sqlite](switzerland.sqlite)|
-Zeitstempel|05.09.2019 12:03|
-Dateigr&ouml;&szlig;e|16.11 Mb|
+Zeitstempel|11.09.2019 20:01|
+Dateigr&ouml;&szlig;e|17.17 Mb|
 |||
 Gesamtanzahl Nodes|344023|
 |MinLat|45.81617|

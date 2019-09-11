@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[norway.sqlite](norway.sqlite)|
-Zeitstempel|05.09.2019 11:21|
-Dateigr&ouml;&szlig;e|15.71 Mb|
+Zeitstempel|11.09.2019 19:18|
+Dateigr&ouml;&szlig;e|16.80 Mb|
 |||
 Gesamtanzahl Nodes|353270|
 |MinLat|57.55323|

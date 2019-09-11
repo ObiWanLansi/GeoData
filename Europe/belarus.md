@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[belarus.sqlite](belarus.sqlite)|
-Zeitstempel|04.09.2019 20:37|
-Dateigr&ouml;&szlig;e|17.76 Mb|
+Zeitstempel|11.09.2019 16:32|
+Dateigr&ouml;&szlig;e|19.01 Mb|
 |||
 Gesamtanzahl Nodes|399628|
 |MinLat|51.23751|

@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[netherlands.sqlite](netherlands.sqlite)|
-Zeitstempel|04.09.2019 23:01|
-Dateigr&ouml;&szlig;e|13.57 Mb|
+Zeitstempel|11.09.2019 19:07|
+Dateigr&ouml;&szlig;e|14.39 Mb|
 |||
 Gesamtanzahl Nodes|278686|
 |MinLat|50.74753|

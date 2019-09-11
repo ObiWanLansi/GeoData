@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[bulgaria.sqlite](bulgaria.sqlite)|
-Zeitstempel|04.09.2019 20:30|
-Dateigr&ouml;&szlig;e|8.97 Mb|
+Zeitstempel|11.09.2019 16:37|
+Dateigr&ouml;&szlig;e|9.60 Mb|
 |||
 Gesamtanzahl Nodes|181737|
 |MinLat|41.22681|

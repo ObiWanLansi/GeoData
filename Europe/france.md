@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[france.sqlite](france.sqlite)|
-Zeitstempel|05.09.2019 11:18|
-Dateigr&ouml;&szlig;e|120.50 Mb|
+Zeitstempel|11.09.2019 17:40|
+Dateigr&ouml;&szlig;e|127.71 Mb|
 |||
 Gesamtanzahl Nodes|2467072|
 |MinLat|41.257249|

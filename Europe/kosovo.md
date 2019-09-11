@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[kosovo.sqlite](kosovo.sqlite)|
-Zeitstempel|04.09.2019 22:10|
-Dateigr&ouml;&szlig;e|568.00 Kb|
+Zeitstempel|11.09.2019 18:51|
+Dateigr&ouml;&szlig;e|624.00 Kb|
 |||
 Gesamtanzahl Nodes|11430|
 |MinLat|41.85101|

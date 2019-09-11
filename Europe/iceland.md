@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[iceland.sqlite](iceland.sqlite)|
-Zeitstempel|04.09.2019 21:45|
-Dateigr&ouml;&szlig;e|2.77 Mb|
+Zeitstempel|11.09.2019 18:30|
+Dateigr&ouml;&szlig;e|2.98 Mb|
 |||
 Gesamtanzahl Nodes|66739|
 |MinLat|62.84553|

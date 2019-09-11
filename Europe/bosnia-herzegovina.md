@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[bosnia-herzegovina.sqlite](bosnia-herzegovina.sqlite)|
-Zeitstempel|04.09.2019 20:21|
-Dateigr&ouml;&szlig;e|1.84 Mb|
+Zeitstempel|11.09.2019 16:36|
+Dateigr&ouml;&szlig;e|1.96 Mb|
 |||
 Gesamtanzahl Nodes|39437|
 |MinLat|42.56583|

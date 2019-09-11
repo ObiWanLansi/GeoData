@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[czech-republic.sqlite](czech-republic.sqlite)|
-Zeitstempel|04.09.2019 21:12|
-Dateigr&ouml;&szlig;e|21.24 Mb|
+Zeitstempel|11.09.2019 16:48|
+Dateigr&ouml;&szlig;e|22.75 Mb|
 |||
 Gesamtanzahl Nodes|484395|
 |MinLat|48.54292|

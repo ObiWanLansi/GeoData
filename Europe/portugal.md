@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[portugal.sqlite](portugal.sqlite)|
-Zeitstempel|05.09.2019 11:26|
-Dateigr&ouml;&szlig;e|9.05 Mb|
+Zeitstempel|11.09.2019 19:34|
+Dateigr&ouml;&szlig;e|9.62 Mb|
 |||
 Gesamtanzahl Nodes|187178|
 |MinLat|29.251448|

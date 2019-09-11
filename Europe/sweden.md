@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[sweden.sqlite](sweden.sqlite)|
-Zeitstempel|05.09.2019 11:55|
-Dateigr&ouml;&szlig;e|12.51 Mb|
+Zeitstempel|11.09.2019 19:58|
+Dateigr&ouml;&szlig;e|13.30 Mb|
 |||
 Gesamtanzahl Nodes|269144|
 |MinLat|55.02652|

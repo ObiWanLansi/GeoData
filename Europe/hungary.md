@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[hungary.sqlite](hungary.sqlite)|
-Zeitstempel|04.09.2019 21:42|
-Dateigr&ouml;&szlig;e|16.45 Mb|
+Zeitstempel|11.09.2019 18:30|
+Dateigr&ouml;&szlig;e|17.56 Mb|
 |||
 Gesamtanzahl Nodes|368751|
 |MinLat|45.73218|

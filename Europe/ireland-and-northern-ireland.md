@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[ireland-and-northern-ireland.sqlite](ireland-and-northern-ireland.sqlite)|
-Zeitstempel|04.09.2019 21:58|
-Dateigr&ouml;&szlig;e|11.00 Mb|
+Zeitstempel|11.09.2019 18:32|
+Dateigr&ouml;&szlig;e|11.78 Mb|
 |||
 Gesamtanzahl Nodes|254320|
 |MinLat|47.96052|

@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[serbia.sqlite](serbia.sqlite)|
-Zeitstempel|05.09.2019 11:32|
-Dateigr&ouml;&szlig;e|2.73 Mb|
+Zeitstempel|11.09.2019 19:37|
+Dateigr&ouml;&szlig;e|2.98 Mb|
 |||
 Gesamtanzahl Nodes|60514|
 |MinLat|42.24909|

@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[slovakia.sqlite](slovakia.sqlite)|
-Zeitstempel|05.09.2019 11:37|
-Dateigr&ouml;&szlig;e|11.04 Mb|
+Zeitstempel|11.09.2019 19:39|
+Dateigr&ouml;&szlig;e|11.73 Mb|
 |||
 Gesamtanzahl Nodes|229511|
 |MinLat|47.72646|

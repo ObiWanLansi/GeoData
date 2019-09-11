@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[denmark.sqlite](denmark.sqlite)|
-Zeitstempel|04.09.2019 20:47|
-Dateigr&ouml;&szlig;e|5.57 Mb|
+Zeitstempel|11.09.2019 16:52|
+Dateigr&ouml;&szlig;e|5.93 Mb|
 |||
 Gesamtanzahl Nodes|119579|
 |MinLat|54.44065|

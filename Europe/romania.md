@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[romania.sqlite](romania.sqlite)|
-Zeitstempel|05.09.2019 11:31|
-Dateigr&ouml;&szlig;e|9.35 Mb|
+Zeitstempel|11.09.2019 19:36|
+Dateigr&ouml;&szlig;e|10.00 Mb|
 |||
 Gesamtanzahl Nodes|207266|
 |MinLat|43.59703|

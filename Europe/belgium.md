@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[belgium.sqlite](belgium.sqlite)|
-Zeitstempel|04.09.2019 20:28|
-Dateigr&ouml;&szlig;e|8.85 Mb|
+Zeitstempel|11.09.2019 16:35|
+Dateigr&ouml;&szlig;e|9.39 Mb|
 |||
 Gesamtanzahl Nodes|185419|
 |MinLat|49.49196|

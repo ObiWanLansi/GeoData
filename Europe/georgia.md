@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[georgia.sqlite](georgia.sqlite)|
-Zeitstempel|04.09.2019 20:57|
-Dateigr&ouml;&szlig;e|2.69 Mb|
+Zeitstempel|11.09.2019 17:41|
+Dateigr&ouml;&szlig;e|3.05 Mb|
 |||
 Gesamtanzahl Nodes|49822|
 |MinLat|41.05117|

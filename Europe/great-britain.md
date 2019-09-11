@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[great-britain.sqlite](great-britain.sqlite)|
-Zeitstempel|04.09.2019 22:09|
-Dateigr&ouml;&szlig;e|53.14 Mb|
+Zeitstempel|11.09.2019 18:25|
+Dateigr&ouml;&szlig;e|56.60 Mb|
 |||
 Gesamtanzahl Nodes|1160182|
 |MinLat|48.79409|

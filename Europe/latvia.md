@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[latvia.sqlite](latvia.sqlite)|
-Zeitstempel|04.09.2019 22:16|
-Dateigr&ouml;&szlig;e|7.18 Mb|
+Zeitstempel|11.09.2019 18:52|
+Dateigr&ouml;&szlig;e|7.59 Mb|
 |||
 Gesamtanzahl Nodes|136239|
 |MinLat|55.66109|

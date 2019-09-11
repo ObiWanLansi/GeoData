@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[germany.sqlite](germany.sqlite)|
-Zeitstempel|05.09.2019 11:07|
-Dateigr&ouml;&szlig;e|161.50 Mb|
+Zeitstempel|11.09.2019 18:13|
+Dateigr&ouml;&szlig;e|171.70 Mb|
 |||
 Gesamtanzahl Nodes|3441241|
 |MinLat|47.26543|

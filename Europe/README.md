@@ -13,8 +13,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[albania.sqlite](albania.sqlite)|
-Zeitstempel|04.09.2019 20:17|
-Dateigr&ouml;&szlig;e|1.24 Mb|
+Zeitstempel|11.09.2019 16:23|
+Dateigr&ouml;&szlig;e|1.33 Mb|
 |||
 Gesamtanzahl Nodes|26278|
 |MinLat|39.643636|
@@ -70,8 +70,8 @@ Gesamtanzahl Nodes|26278|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[andorra.sqlite](andorra.sqlite)|
-Zeitstempel|04.09.2019 20:16|
-Dateigr&ouml;&szlig;e|80.00 Kb|
+Zeitstempel|11.09.2019 16:23|
+Dateigr&ouml;&szlig;e|88.00 Kb|
 |||
 Gesamtanzahl Nodes|1395|
 |MinLat|42.4276|
@@ -124,8 +124,8 @@ Gesamtanzahl Nodes|1395|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[austria.sqlite](austria.sqlite)|
-Zeitstempel|04.09.2019 20:52|
-Dateigr&ouml;&szlig;e|24.12 Mb|
+Zeitstempel|11.09.2019 16:29|
+Dateigr&ouml;&szlig;e|25.70 Mb|
 |||
 Gesamtanzahl Nodes|532399|
 |MinLat|46.36851|
@@ -181,8 +181,8 @@ Gesamtanzahl Nodes|532399|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[azores.sqlite](azores.sqlite)|
-Zeitstempel|04.09.2019 20:16|
-Dateigr&ouml;&szlig;e|296.00 Kb|
+Zeitstempel|11.09.2019 16:30|
+Dateigr&ouml;&szlig;e|316.00 Kb|
 |||
 Gesamtanzahl Nodes|5597|
 |MinLat|36.67791|
@@ -237,8 +237,8 @@ Gesamtanzahl Nodes|5597|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[belarus.sqlite](belarus.sqlite)|
-Zeitstempel|04.09.2019 20:37|
-Dateigr&ouml;&szlig;e|17.76 Mb|
+Zeitstempel|11.09.2019 16:32|
+Dateigr&ouml;&szlig;e|19.01 Mb|
 |||
 Gesamtanzahl Nodes|399628|
 |MinLat|51.23751|
@@ -294,8 +294,8 @@ Gesamtanzahl Nodes|399628|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[belgium.sqlite](belgium.sqlite)|
-Zeitstempel|04.09.2019 20:28|
-Dateigr&ouml;&szlig;e|8.85 Mb|
+Zeitstempel|11.09.2019 16:35|
+Dateigr&ouml;&szlig;e|9.39 Mb|
 |||
 Gesamtanzahl Nodes|185419|
 |MinLat|49.49196|
@@ -351,8 +351,8 @@ Gesamtanzahl Nodes|185419|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[bosnia-herzegovina.sqlite](bosnia-herzegovina.sqlite)|
-Zeitstempel|04.09.2019 20:21|
-Dateigr&ouml;&szlig;e|1.84 Mb|
+Zeitstempel|11.09.2019 16:36|
+Dateigr&ouml;&szlig;e|1.96 Mb|
 |||
 Gesamtanzahl Nodes|39437|
 |MinLat|42.56583|
@@ -408,8 +408,8 @@ Gesamtanzahl Nodes|39437|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[bulgaria.sqlite](bulgaria.sqlite)|
-Zeitstempel|04.09.2019 20:30|
-Dateigr&ouml;&szlig;e|8.97 Mb|
+Zeitstempel|11.09.2019 16:37|
+Dateigr&ouml;&szlig;e|9.60 Mb|
 |||
 Gesamtanzahl Nodes|181737|
 |MinLat|41.22681|
@@ -465,8 +465,8 @@ Gesamtanzahl Nodes|181737|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[croatia.sqlite](croatia.sqlite)|
-Zeitstempel|04.09.2019 20:33|
-Dateigr&ouml;&szlig;e|3.87 Mb|
+Zeitstempel|11.09.2019 16:39|
+Dateigr&ouml;&szlig;e|4.12 Mb|
 |||
 Gesamtanzahl Nodes|81879|
 |MinLat|42.16483|
@@ -522,8 +522,8 @@ Gesamtanzahl Nodes|81879|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[cyprus.sqlite](cyprus.sqlite)|
-Zeitstempel|04.09.2019 20:30|
-Dateigr&ouml;&szlig;e|936.00 Kb|
+Zeitstempel|11.09.2019 16:39|
+Dateigr&ouml;&szlig;e|1.03 Mb|
 |||
 Gesamtanzahl Nodes|18826|
 |MinLat|34.2337399|
@@ -579,8 +579,8 @@ Gesamtanzahl Nodes|18826|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[czech-republic.sqlite](czech-republic.sqlite)|
-Zeitstempel|04.09.2019 21:12|
-Dateigr&ouml;&szlig;e|21.24 Mb|
+Zeitstempel|11.09.2019 16:48|
+Dateigr&ouml;&szlig;e|22.75 Mb|
 |||
 Gesamtanzahl Nodes|484395|
 |MinLat|48.54292|
@@ -636,8 +636,8 @@ Gesamtanzahl Nodes|484395|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[denmark.sqlite](denmark.sqlite)|
-Zeitstempel|04.09.2019 20:47|
-Dateigr&ouml;&szlig;e|5.57 Mb|
+Zeitstempel|11.09.2019 16:52|
+Dateigr&ouml;&szlig;e|5.93 Mb|
 |||
 Gesamtanzahl Nodes|119579|
 |MinLat|54.44065|
@@ -693,8 +693,8 @@ Gesamtanzahl Nodes|119579|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[estonia.sqlite](estonia.sqlite)|
-Zeitstempel|04.09.2019 20:41|
-Dateigr&ouml;&szlig;e|2.84 Mb|
+Zeitstempel|11.09.2019 16:53|
+Dateigr&ouml;&szlig;e|3.04 Mb|
 |||
 Gesamtanzahl Nodes|65817|
 |MinLat|57.49764|
@@ -750,8 +750,8 @@ Gesamtanzahl Nodes|65817|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[faroe-islands.sqlite](faroe-islands.sqlite)|
-Zeitstempel|04.09.2019 20:41|
-Dateigr&ouml;&szlig;e|360.00 Kb|
+Zeitstempel|11.09.2019 16:53|
+Dateigr&ouml;&szlig;e|380.00 Kb|
 |||
 Gesamtanzahl Nodes|6862|
 |MinLat|61.3|
@@ -805,8 +805,8 @@ Gesamtanzahl Nodes|6862|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[finland.sqlite](finland.sqlite)|
-Zeitstempel|04.09.2019 21:06|
-Dateigr&ouml;&szlig;e|10.84 Mb|
+Zeitstempel|11.09.2019 17:00|
+Dateigr&ouml;&szlig;e|11.61 Mb|
 |||
 Gesamtanzahl Nodes|245086|
 |MinLat|59.28783|
@@ -862,8 +862,8 @@ Gesamtanzahl Nodes|245086|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[france.sqlite](france.sqlite)|
-Zeitstempel|05.09.2019 11:18|
-Dateigr&ouml;&szlig;e|120.50 Mb|
+Zeitstempel|11.09.2019 17:40|
+Dateigr&ouml;&szlig;e|127.71 Mb|
 |||
 Gesamtanzahl Nodes|2467072|
 |MinLat|41.257249|
@@ -919,8 +919,8 @@ Gesamtanzahl Nodes|2467072|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[georgia.sqlite](georgia.sqlite)|
-Zeitstempel|04.09.2019 20:57|
-Dateigr&ouml;&szlig;e|2.69 Mb|
+Zeitstempel|11.09.2019 17:41|
+Dateigr&ouml;&szlig;e|3.05 Mb|
 |||
 Gesamtanzahl Nodes|49822|
 |MinLat|41.05117|
@@ -976,8 +976,8 @@ Gesamtanzahl Nodes|49822|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[germany.sqlite](germany.sqlite)|
-Zeitstempel|05.09.2019 11:07|
-Dateigr&ouml;&szlig;e|161.50 Mb|
+Zeitstempel|11.09.2019 18:13|
+Dateigr&ouml;&szlig;e|171.70 Mb|
 |||
 Gesamtanzahl Nodes|3441241|
 |MinLat|47.26543|
@@ -1033,8 +1033,8 @@ Gesamtanzahl Nodes|3441241|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[great-britain.sqlite](great-britain.sqlite)|
-Zeitstempel|04.09.2019 22:09|
-Dateigr&ouml;&szlig;e|53.14 Mb|
+Zeitstempel|11.09.2019 18:25|
+Dateigr&ouml;&szlig;e|56.60 Mb|
 |||
 Gesamtanzahl Nodes|1160182|
 |MinLat|48.79409|
@@ -1090,8 +1090,8 @@ Gesamtanzahl Nodes|1160182|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[greece.sqlite](greece.sqlite)|
-Zeitstempel|04.09.2019 21:23|
-Dateigr&ouml;&szlig;e|7.29 Mb|
+Zeitstempel|11.09.2019 18:28|
+Dateigr&ouml;&szlig;e|8.01 Mb|
 |||
 Gesamtanzahl Nodes|149476|
 |MinLat|34.59111|
@@ -1147,8 +1147,8 @@ Gesamtanzahl Nodes|149476|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[hungary.sqlite](hungary.sqlite)|
-Zeitstempel|04.09.2019 21:42|
-Dateigr&ouml;&szlig;e|16.45 Mb|
+Zeitstempel|11.09.2019 18:30|
+Dateigr&ouml;&szlig;e|17.56 Mb|
 |||
 Gesamtanzahl Nodes|368751|
 |MinLat|45.73218|
@@ -1204,8 +1204,8 @@ Gesamtanzahl Nodes|368751|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[iceland.sqlite](iceland.sqlite)|
-Zeitstempel|04.09.2019 21:45|
-Dateigr&ouml;&szlig;e|2.77 Mb|
+Zeitstempel|11.09.2019 18:30|
+Dateigr&ouml;&szlig;e|2.98 Mb|
 |||
 Gesamtanzahl Nodes|66739|
 |MinLat|62.84553|
@@ -1261,8 +1261,8 @@ Gesamtanzahl Nodes|66739|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[ireland-and-northern-ireland.sqlite](ireland-and-northern-ireland.sqlite)|
-Zeitstempel|04.09.2019 21:58|
-Dateigr&ouml;&szlig;e|11.00 Mb|
+Zeitstempel|11.09.2019 18:32|
+Dateigr&ouml;&szlig;e|11.78 Mb|
 |||
 Gesamtanzahl Nodes|254320|
 |MinLat|47.96052|
@@ -1318,8 +1318,8 @@ Gesamtanzahl Nodes|254320|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[isle-of-man.sqlite](isle-of-man.sqlite)|
-Zeitstempel|04.09.2019 21:58|
-Dateigr&ouml;&szlig;e|192.00 Kb|
+Zeitstempel|11.09.2019 18:32|
+Dateigr&ouml;&szlig;e|200.00 Kb|
 |||
 Gesamtanzahl Nodes|3728|
 |MinLat|53.73236|
@@ -1373,8 +1373,8 @@ Gesamtanzahl Nodes|3728|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[italy.sqlite](italy.sqlite)|
-Zeitstempel|04.09.2019 23:11|
-Dateigr&ouml;&szlig;e|51.15 Mb|
+Zeitstempel|11.09.2019 18:51|
+Dateigr&ouml;&szlig;e|54.44 Mb|
 |||
 Gesamtanzahl Nodes|1082603|
 |MinLat|35.07638|
@@ -1430,8 +1430,8 @@ Gesamtanzahl Nodes|1082603|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[kosovo.sqlite](kosovo.sqlite)|
-Zeitstempel|04.09.2019 22:10|
-Dateigr&ouml;&szlig;e|568.00 Kb|
+Zeitstempel|11.09.2019 18:51|
+Dateigr&ouml;&szlig;e|624.00 Kb|
 |||
 Gesamtanzahl Nodes|11430|
 |MinLat|41.85101|
@@ -1486,8 +1486,8 @@ Gesamtanzahl Nodes|11430|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[latvia.sqlite](latvia.sqlite)|
-Zeitstempel|04.09.2019 22:16|
-Dateigr&ouml;&szlig;e|7.18 Mb|
+Zeitstempel|11.09.2019 18:52|
+Dateigr&ouml;&szlig;e|7.59 Mb|
 |||
 Gesamtanzahl Nodes|136239|
 |MinLat|55.66109|
@@ -1543,8 +1543,8 @@ Gesamtanzahl Nodes|136239|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[liechtenstein.sqlite](liechtenstein.sqlite)|
-Zeitstempel|04.09.2019 22:16|
-Dateigr&ouml;&szlig;e|64.00 Kb|
+Zeitstempel|11.09.2019 18:52|
+Dateigr&ouml;&szlig;e|68.00 Kb|
 |||
 Gesamtanzahl Nodes|1064|
 |MinLat|47.04774|
@@ -1599,8 +1599,8 @@ Gesamtanzahl Nodes|1064|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[lithuania.sqlite](lithuania.sqlite)|
-Zeitstempel|04.09.2019 22:22|
-Dateigr&ouml;&szlig;e|4.79 Mb|
+Zeitstempel|11.09.2019 18:53|
+Dateigr&ouml;&szlig;e|5.10 Mb|
 |||
 Gesamtanzahl Nodes|106629|
 |MinLat|53.89605|
@@ -1656,8 +1656,8 @@ Gesamtanzahl Nodes|106629|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[luxembourg.sqlite](luxembourg.sqlite)|
-Zeitstempel|04.09.2019 22:24|
-Dateigr&ouml;&szlig;e|1.38 Mb|
+Zeitstempel|11.09.2019 18:53|
+Dateigr&ouml;&szlig;e|1.48 Mb|
 |||
 Gesamtanzahl Nodes|29743|
 |MinLat|49.44553|
@@ -1713,8 +1713,8 @@ Gesamtanzahl Nodes|29743|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[macedonia.sqlite](macedonia.sqlite)|
-Zeitstempel|04.09.2019 22:24|
-Dateigr&ouml;&szlig;e|564.00 Kb|
+Zeitstempel|11.09.2019 18:54|
+Dateigr&ouml;&szlig;e|632.00 Kb|
 |||
 Gesamtanzahl Nodes|11045|
 |MinLat|40.84759|
@@ -1770,8 +1770,8 @@ Gesamtanzahl Nodes|11045|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[malta.sqlite](malta.sqlite)|
-Zeitstempel|04.09.2019 22:25|
-Dateigr&ouml;&szlig;e|252.00 Kb|
+Zeitstempel|11.09.2019 18:54|
+Dateigr&ouml;&szlig;e|272.00 Kb|
 |||
 Gesamtanzahl Nodes|4715|
 |MinLat|35.51985|
@@ -1826,8 +1826,8 @@ Gesamtanzahl Nodes|4715|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[moldova.sqlite](moldova.sqlite)|
-Zeitstempel|04.09.2019 22:30|
-Dateigr&ouml;&szlig;e|4.96 Mb|
+Zeitstempel|11.09.2019 18:54|
+Dateigr&ouml;&szlig;e|5.35 Mb|
 |||
 Gesamtanzahl Nodes|119760|
 |MinLat|45.4689|
@@ -1882,8 +1882,8 @@ Gesamtanzahl Nodes|119760|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[montenegro.sqlite](montenegro.sqlite)|
-Zeitstempel|04.09.2019 22:31|
-Dateigr&ouml;&szlig;e|872.00 Kb|
+Zeitstempel|11.09.2019 18:55|
+Dateigr&ouml;&szlig;e|980.00 Kb|
 |||
 Gesamtanzahl Nodes|17595|
 |MinLat|41.61621|
@@ -1939,8 +1939,8 @@ Gesamtanzahl Nodes|17595|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[netherlands.sqlite](netherlands.sqlite)|
-Zeitstempel|04.09.2019 23:01|
-Dateigr&ouml;&szlig;e|13.57 Mb|
+Zeitstempel|11.09.2019 19:07|
+Dateigr&ouml;&szlig;e|14.39 Mb|
 |||
 Gesamtanzahl Nodes|278686|
 |MinLat|50.74753|
@@ -1996,8 +1996,8 @@ Gesamtanzahl Nodes|278686|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[norway.sqlite](norway.sqlite)|
-Zeitstempel|05.09.2019 11:21|
-Dateigr&ouml;&szlig;e|15.71 Mb|
+Zeitstempel|11.09.2019 19:18|
+Dateigr&ouml;&szlig;e|16.80 Mb|
 |||
 Gesamtanzahl Nodes|353270|
 |MinLat|57.55323|
@@ -2053,8 +2053,8 @@ Gesamtanzahl Nodes|353270|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[poland.sqlite](poland.sqlite)|
-Zeitstempel|05.09.2019 11:46|
-Dateigr&ouml;&szlig;e|47.95 Mb|
+Zeitstempel|11.09.2019 19:31|
+Dateigr&ouml;&szlig;e|50.97 Mb|
 |||
 Gesamtanzahl Nodes|1002587|
 |MinLat|48.986421|
@@ -2110,8 +2110,8 @@ Gesamtanzahl Nodes|1002587|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[portugal.sqlite](portugal.sqlite)|
-Zeitstempel|05.09.2019 11:26|
-Dateigr&ouml;&szlig;e|9.05 Mb|
+Zeitstempel|11.09.2019 19:34|
+Dateigr&ouml;&szlig;e|9.62 Mb|
 |||
 Gesamtanzahl Nodes|187178|
 |MinLat|29.251448|
@@ -2167,8 +2167,8 @@ Gesamtanzahl Nodes|187178|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[romania.sqlite](romania.sqlite)|
-Zeitstempel|05.09.2019 11:31|
-Dateigr&ouml;&szlig;e|9.35 Mb|
+Zeitstempel|11.09.2019 19:36|
+Dateigr&ouml;&szlig;e|10.00 Mb|
 |||
 Gesamtanzahl Nodes|207266|
 |MinLat|43.59703|
@@ -2224,8 +2224,8 @@ Gesamtanzahl Nodes|207266|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[serbia.sqlite](serbia.sqlite)|
-Zeitstempel|05.09.2019 11:32|
-Dateigr&ouml;&szlig;e|2.73 Mb|
+Zeitstempel|11.09.2019 19:37|
+Dateigr&ouml;&szlig;e|2.98 Mb|
 |||
 Gesamtanzahl Nodes|60514|
 |MinLat|42.24909|
@@ -2281,8 +2281,8 @@ Gesamtanzahl Nodes|60514|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[slovakia.sqlite](slovakia.sqlite)|
-Zeitstempel|05.09.2019 11:37|
-Dateigr&ouml;&szlig;e|11.04 Mb|
+Zeitstempel|11.09.2019 19:39|
+Dateigr&ouml;&szlig;e|11.73 Mb|
 |||
 Gesamtanzahl Nodes|229511|
 |MinLat|47.72646|
@@ -2338,8 +2338,8 @@ Gesamtanzahl Nodes|229511|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[slovenia.sqlite](slovenia.sqlite)|
-Zeitstempel|05.09.2019 11:42|
-Dateigr&ouml;&szlig;e|2.15 Mb|
+Zeitstempel|11.09.2019 19:42|
+Dateigr&ouml;&szlig;e|2.30 Mb|
 |||
 Gesamtanzahl Nodes|45763|
 |MinLat|45.420805|
@@ -2395,8 +2395,8 @@ Gesamtanzahl Nodes|45763|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[spain.sqlite](spain.sqlite)|
-Zeitstempel|05.09.2019 12:03|
-Dateigr&ouml;&szlig;e|68.33 Mb|
+Zeitstempel|11.09.2019 19:52|
+Dateigr&ouml;&szlig;e|72.33 Mb|
 |||
 Gesamtanzahl Nodes|1346857|
 |MinLat|35.154153|
@@ -2452,8 +2452,8 @@ Gesamtanzahl Nodes|1346857|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[sweden.sqlite](sweden.sqlite)|
-Zeitstempel|05.09.2019 11:55|
-Dateigr&ouml;&szlig;e|12.51 Mb|
+Zeitstempel|11.09.2019 19:58|
+Dateigr&ouml;&szlig;e|13.30 Mb|
 |||
 Gesamtanzahl Nodes|269144|
 |MinLat|55.02652|
@@ -2509,8 +2509,8 @@ Gesamtanzahl Nodes|269144|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[switzerland.sqlite](switzerland.sqlite)|
-Zeitstempel|05.09.2019 12:03|
-Dateigr&ouml;&szlig;e|16.11 Mb|
+Zeitstempel|11.09.2019 20:01|
+Dateigr&ouml;&szlig;e|17.17 Mb|
 |||
 Gesamtanzahl Nodes|344023|
 |MinLat|45.81617|
@@ -2566,8 +2566,8 @@ Gesamtanzahl Nodes|344023|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[turkey.sqlite](turkey.sqlite)|
-Zeitstempel|05.09.2019 12:09|
-Dateigr&ouml;&szlig;e|14.27 Mb|
+Zeitstempel|11.09.2019 20:05|
+Dateigr&ouml;&szlig;e|15.30 Mb|
 |||
 Gesamtanzahl Nodes|308469|
 |MinLat|35.717|
@@ -2623,8 +2623,8 @@ Gesamtanzahl Nodes|308469|
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[ukraine.sqlite](ukraine.sqlite)|
-Zeitstempel|05.09.2019 12:13|
-Dateigr&ouml;&szlig;e|40.82 Mb|
+Zeitstempel|11.09.2019 20:12|
+Dateigr&ouml;&szlig;e|44.18 Mb|
 |||
 Gesamtanzahl Nodes|934400|
 |MinLat|44.027381|

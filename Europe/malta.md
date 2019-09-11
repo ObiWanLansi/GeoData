@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[malta.sqlite](malta.sqlite)|
-Zeitstempel|04.09.2019 22:25|
-Dateigr&ouml;&szlig;e|252.00 Kb|
+Zeitstempel|11.09.2019 18:54|
+Dateigr&ouml;&szlig;e|272.00 Kb|
 |||
 Gesamtanzahl Nodes|4715|
 |MinLat|35.51985|

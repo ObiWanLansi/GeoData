@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[lithuania.sqlite](lithuania.sqlite)|
-Zeitstempel|04.09.2019 22:22|
-Dateigr&ouml;&szlig;e|4.79 Mb|
+Zeitstempel|11.09.2019 18:53|
+Dateigr&ouml;&szlig;e|5.10 Mb|
 |||
 Gesamtanzahl Nodes|106629|
 |MinLat|53.89605|

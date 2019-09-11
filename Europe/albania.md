@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[albania.sqlite](albania.sqlite)|
-Zeitstempel|04.09.2019 20:17|
-Dateigr&ouml;&szlig;e|1.24 Mb|
+Zeitstempel|11.09.2019 16:23|
+Dateigr&ouml;&szlig;e|1.33 Mb|
 |||
 Gesamtanzahl Nodes|26278|
 |MinLat|39.643636|

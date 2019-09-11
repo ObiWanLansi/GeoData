@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[liechtenstein.sqlite](liechtenstein.sqlite)|
-Zeitstempel|04.09.2019 22:16|
-Dateigr&ouml;&szlig;e|64.00 Kb|
+Zeitstempel|11.09.2019 18:52|
+Dateigr&ouml;&szlig;e|68.00 Kb|
 |||
 Gesamtanzahl Nodes|1064|
 |MinLat|47.04774|

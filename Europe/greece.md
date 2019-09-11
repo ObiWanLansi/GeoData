@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[greece.sqlite](greece.sqlite)|
-Zeitstempel|04.09.2019 21:23|
-Dateigr&ouml;&szlig;e|7.29 Mb|
+Zeitstempel|11.09.2019 18:28|
+Dateigr&ouml;&szlig;e|8.01 Mb|
 |||
 Gesamtanzahl Nodes|149476|
 |MinLat|34.59111|

@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[faroe-islands.sqlite](faroe-islands.sqlite)|
-Zeitstempel|04.09.2019 20:41|
-Dateigr&ouml;&szlig;e|360.00 Kb|
+Zeitstempel|11.09.2019 16:53|
+Dateigr&ouml;&szlig;e|380.00 Kb|
 |||
 Gesamtanzahl Nodes|6862|
 |MinLat|61.3|

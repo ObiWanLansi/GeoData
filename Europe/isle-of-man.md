@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[isle-of-man.sqlite](isle-of-man.sqlite)|
-Zeitstempel|04.09.2019 21:58|
-Dateigr&ouml;&szlig;e|192.00 Kb|
+Zeitstempel|11.09.2019 18:32|
+Dateigr&ouml;&szlig;e|200.00 Kb|
 |||
 Gesamtanzahl Nodes|3728|
 |MinLat|53.73236|

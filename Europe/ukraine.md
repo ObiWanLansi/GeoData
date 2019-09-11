@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[ukraine.sqlite](ukraine.sqlite)|
-Zeitstempel|05.09.2019 12:13|
-Dateigr&ouml;&szlig;e|40.82 Mb|
+Zeitstempel|11.09.2019 20:12|
+Dateigr&ouml;&szlig;e|44.18 Mb|
 |||
 Gesamtanzahl Nodes|934400|
 |MinLat|44.027381|

@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[italy.sqlite](italy.sqlite)|
-Zeitstempel|04.09.2019 23:11|
-Dateigr&ouml;&szlig;e|51.15 Mb|
+Zeitstempel|11.09.2019 18:51|
+Dateigr&ouml;&szlig;e|54.44 Mb|
 |||
 Gesamtanzahl Nodes|1082603|
 |MinLat|35.07638|

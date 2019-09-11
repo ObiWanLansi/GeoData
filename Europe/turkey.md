@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[turkey.sqlite](turkey.sqlite)|
-Zeitstempel|05.09.2019 12:09|
-Dateigr&ouml;&szlig;e|14.27 Mb|
+Zeitstempel|11.09.2019 20:05|
+Dateigr&ouml;&szlig;e|15.30 Mb|
 |||
 Gesamtanzahl Nodes|308469|
 |MinLat|35.717|

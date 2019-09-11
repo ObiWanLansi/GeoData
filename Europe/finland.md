@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[finland.sqlite](finland.sqlite)|
-Zeitstempel|04.09.2019 21:06|
-Dateigr&ouml;&szlig;e|10.84 Mb|
+Zeitstempel|11.09.2019 17:00|
+Dateigr&ouml;&szlig;e|11.61 Mb|
 |||
 Gesamtanzahl Nodes|245086|
 |MinLat|59.28783|

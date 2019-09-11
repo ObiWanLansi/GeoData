@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[cyprus.sqlite](cyprus.sqlite)|
-Zeitstempel|04.09.2019 20:30|
-Dateigr&ouml;&szlig;e|936.00 Kb|
+Zeitstempel|11.09.2019 16:39|
+Dateigr&ouml;&szlig;e|1.03 Mb|
 |||
 Gesamtanzahl Nodes|18826|
 |MinLat|34.2337399|

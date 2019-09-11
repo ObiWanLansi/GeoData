@@ -7,8 +7,8 @@
 |Eigenschaft|Wert|
 |-|-:|
 Dateiname|[poland.sqlite](poland.sqlite)|
-Zeitstempel|05.09.2019 11:46|
-Dateigr&ouml;&szlig;e|47.95 Mb|
+Zeitstempel|11.09.2019 19:31|
+Dateigr&ouml;&szlig;e|50.97 Mb|
 |||
 Gesamtanzahl Nodes|1002587|
 |MinLat|48.986421|
