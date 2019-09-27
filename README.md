@@ -5,17 +5,17 @@
 Created SQLite Databases Only With The Most Main Nodes From OpenStreetMap Data.
 The Main Nodes Are Nodes Wich Represent An Single Point With An Tag From The Following Types:
 
-- aeroway *(Flughafen)*
-- amenity *(Einrichtung)*
-- craft *(Handwerk)*
-- emergency *(Notfall)*
-- leisure *(Freizeit)*
-- man_made *(Von Menschen Erschaffene Bauliche Strukturen)*
-- military *(Milit&auml;r)*
-- place *(Ortsangaben)*
-- power *(Energieversorgung)*
-- shop *(Gesch&auml;fte)*
-- vending *(Automaten)*
+- [aeroway](https://wiki.openstreetmap.org/wiki/DE:Map_Features#Flughafen) *(Flughafen)*
+- [amenity](https://wiki.openstreetmap.org/wiki/DE:Map_Features#Nutzung.2FEinrichtung) *(Einrichtung)*
+- [craft](https://wiki.openstreetmap.org/wiki/DE:Map_Features#Handwerk) *(Handwerk)*
+- [emergency](https://wiki.openstreetmap.org/wiki/DE:Map_Features#Emergency) *(Notfall)*
+- [leisure](https://wiki.openstreetmap.org/wiki/DE:Map_Features#Freizeit) *(Freizeit)*
+- [man_made](https://wiki.openstreetmap.org/wiki/DE:Map_Features#von_Menschen_erschaffene_.28k.C3.BCnstliche.29_bauliche_Strukturen) *(Von Menschen Erschaffene Bauliche Strukturen)*
+- [military](https://wiki.openstreetmap.org/wiki/DE:Map_Features#Milit.C3.A4r) *(Milit&auml;r)*
+- [place](https://wiki.openstreetmap.org/wiki/DE:Map_Features#Ortsangaben) *(Ortsangaben)*
+- [power](https://wiki.openstreetmap.org/wiki/DE:Map_Features#Energieversorgung) *(Energieversorgung)*
+- [shop](https://wiki.openstreetmap.org/wiki/DE:Map_Features#Gesch.C3.A4fte) *(Gesch&auml;fte)*
+- [vending](https://wiki.openstreetmap.org/wiki/DE:Map_Features#Automaten) *(Automaten)*
 
 ---
 
